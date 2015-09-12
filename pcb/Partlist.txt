@@ -1,0 +1,23 @@
+Partlist
+
+Exported from SatNOGSBoard UNO.brd at 11/09/2015 22:43:30
+
+EAGLE Version 6.5.0 Copyright (c) 1988-2013 CadSoft
+
+Assembly variant: 
+
+Part     Value               Package             Library      Position (inch)       Orientation
+
+C1       100u                B45181B             resistor     (1.85 1.3)            R270
+C2       100u                B45181B             resistor     (0.78 2.5)            R270
+IC1      ARDUINOUNO          ARDUINO             boscoverysat (2.4 0.4)             R90
+IC2      POLOLU-A4983A       POLOLU-A4983        boscoverysat (1.3 1.45)            R270
+IC3      POLOLU-A4983A       POLOLU-A4983        boscoverysat (1.3 2.35)            R90
+MOTOR_1  4-WIRE-CONNECTOR    4-WIRE-CONNECTOR    boscoverysat (1.3 0.95)            R180
+MOTOR_2  4-WIRE-CONNECTOR    4-WIRE-CONNECTOR    boscoverysat (1.3 2.85)            R0
+R1       100k                0309/10             resistor     (1.25 2.25)           R180
+R4       100k                0309/10             resistor     (1.35 1.55)           R0
+SW       6-PIN-JUMPER        6-PIN-JUMPER        boscoverysat (0.62 1.54)           R270
+U$1      6-PIN-LINEAL-JUMPER 6-PIN-LINEAR-JUMPER boscoverysat (0.56 2.4)            R0
+U$2      6-PIN-LINEAL-JUMPER 6-PIN-LINEAR-JUMPER boscoverysat (2.13 2.9)            R180
+VMOTOR   2-WIRE-CONNECTOR    2-WIRE-CONNECTOR    boscoverysat (2.15 1.3)            R270
